@@ -1,0 +1,7 @@
+A function is like a machine in a code that execute (with or without input) and gives the user an output. 
+
+The machine could have a list of input called arguments, while it can also work without. 
+
+The parameters are the settings of the machine that may change functionality of the function to the user's desired mode. 
+
+An if statement is a statement in lines of code that determines its conditions before executing the code inside its bracket. If the conditions turn out true, the code is executed. 
