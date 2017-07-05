@@ -1,0 +1,169 @@
+
+> js-homework-1@1.0.0 test /home/limpingstone/Programming/lsweb-minicamp/lswebhomework6
+> eslint exercises.js && jest
+
+
+ RUNS  ...test.js
+[K[1A[K[1A
+ RUNS  ...test.js
+[K[1A[K[1A PASS  tests/test.js
+
+ RUNS  ...test.js
+[K[1A[K[1A  multiplyByTen(num)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the argument after multiplying by ten (3ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  subtractFive(num)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the argument after subtracting five (1ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  areSameLength(str1, str2)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return true if the arguments have the same length
+
+ RUNS  ...test.js
+[K[1A[K[1A  areEqual(x, y)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return true if the arguments are equal (1ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  lessThanNinety(num)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return true if the argument is less than ninety (1ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  greaterThanFifty(num)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return true if the argument is greater than fifty
+
+ RUNS  ...test.js
+[K[1A[K[1A  add(x, y)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the sum of the two arguments (1ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  subtract(x, y)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the difference of the two arguments
+
+ RUNS  ...test.js
+[K[1A[K[1A  divide(x, y)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the quotient of the two arguments (1ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  multiply(x, y)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the product of the two arguments
+
+ RUNS  ...test.js
+[K[1A[K[1A  getRemainder(x, y)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the division remainder of the two arguments (1ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  isEven(num)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the bool true if the argument is even, false otherwise (2ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  isOdd(num)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the bool true if the argument is odd, false otherwise (1ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  square(num)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the argument after squaring it (1ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  cube(num)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the argument after cubing it
+
+ RUNS  ...test.js
+[K[1A[K[1A  raiseToPower(num, exponent)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the argument after raising it to the exponent's power (1ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  roundNumber(num)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the argument after rounding it (1ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  roundUp(num)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the argument after rounding it up
+
+ RUNS  ...test.js
+[K[1A[K[1A  addExclamationPoint(str)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should add an exclamation point to the end of the string (1ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  combineNames(firstName, lastName)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the two strings combined into one with a space separating them
+
+ RUNS  ...test.js
+[K[1A[K[1A  getGreeting(name)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the string 'Hello {name}!' (1ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  getRectangleArea(length, width)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the correct area
+
+ RUNS  ...test.js
+[K[1A[K[1A  getTriangleArea(base, height)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the correct area (1ms)
+
+ RUNS  ...test.js
+[K[1A[K[1A  getCircleArea(radius)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the correct area
+
+ RUNS  ...test.js
+[K[1A[K[1A  getRectangularPrismVolume(length, width, height)
+
+ RUNS  ...test.js
+[K[1A[K[1A    ✓ should return the correct volume
+
+ RUNS  ...test.js
+[K[1A[K[1A
+
+ RUNS  ...test.js
+[K[1A[K[1ATest Suites: 1 passed, 1 total
+Tests:       25 passed, 25 total
+Snapshots:   0 total
+Time:        1.017s
+Ran all test suites.
